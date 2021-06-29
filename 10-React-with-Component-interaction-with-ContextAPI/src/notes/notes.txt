@@ -1,0 +1,27 @@
+props , state , {} 16.13
+------------------
+{} -> react expression -> dynamic data / expression
+
+props -> App -> navbar
+
+functional -> props.msg
+class -> this.props.msg
+
+---------------------------------------------
+state -> every component maintains its own data
+
+Class ->
+
+comments -> Ctrl + shift + /
+
+
+Components interaction
+---------------------
+1.parent  to Chiid 
+=====================> 
+(via) props
+2.child  to parent 
+=====================>
+1.create a function in parent to  receive the data.
+2.send data from child to parent.
+
