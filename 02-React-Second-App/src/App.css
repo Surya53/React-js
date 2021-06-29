@@ -1,0 +1,30 @@
+nav {
+   background-color: blueviolet;
+   padding: 8px;
+   font-size: 18px;
+   text-align: center;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+.card {
+  width: 500px;
+  margin: 10px;
+  background: linear-gradient(45deg,black,pink);
+  padding: 10px;
+  box-shadow: 5px;
+  box-shadow: 0 5px 5px black;
+
+}
+
+.card-body {
+ padding: 10px;
+}
+
+.card-body h3 {
+  font-size: 25px;
+  margin: 5px;
+}
