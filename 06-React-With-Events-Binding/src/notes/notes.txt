@@ -1,0 +1,15 @@
+props , state , {} 16.13
+------------------
+{} -> react expression -> dynamic data / expression
+
+props -> App -> navbar
+
+functional -> props.msg
+class -> this.props.msg
+
+---------------------------------------------
+state -> every component maintains its own data
+
+Class ->
+
+comments -> Ctrl + shift + /
